@@ -28,7 +28,8 @@ Esta plataforma se centra en:
 *(Tecnologías sujetas a pequeños ajustes durante el desarrollo)*
 
 ## Estructura del repositorio (sujeto a cambios)
-/Informe Primera Entrega [Informe](Informe%Primera%Entrega/Primera%Entrega%Proyecto%Final DB.md)
+/Informe Primera Entrega 
+[Informe](Informe%Primera%Entrega/Primera%Entrega%Proyecto%Final DB.md)
 /backend
 /frontend
 /mobile
